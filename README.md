@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @aanshans
 - 👀 I’m interested in machine learning and stuff
 - 🌱 I’m currently learning a lot of stuff
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on different stuff
+- 📫 Please reach out to me for all the stuff
 
 <!---
 aanshans/aanshans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
